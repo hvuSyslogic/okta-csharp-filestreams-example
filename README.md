@@ -25,4 +25,8 @@ Press **F5** to run the project.
 
 ## Getting Help
 
-Place comments or questions in the comments section of the [blog post](https://developer.okta.com/blog/2020/04/29/master-filestream-in-csharp-aspnetcore).
+Place comments or questions in the comments section of the [blog post](https://developer.okta.com/blog/2020/04/29/master-filestream-in-csharp-aspnetcore) or visit our [Okta Developer Forums](https://devforum.okta.com/).
+
+## License
+
+Apache 2.0, see [LICENSE](LICENSE).
